@@ -21,8 +21,8 @@ function addnavbar() {
     <div class="card-icon">
     <span></span>
         <div class="icon">
-            <img onclick="gotocard()"  class="shop" src="../images/cart.png" alt="">
-            <img class="user" src="../images/user.png" alt="">
+            <img onclick="gotocard()"  class="shop" src="images/cart.png" alt="">
+            <img class="user" src="images/user.png" alt="">
         </div>
         <div class="account-name">
             <div class="div">
